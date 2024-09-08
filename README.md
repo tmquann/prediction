@@ -1,4 +1,4 @@
-# prediction
+# Prediction
 
 1. Data Loading and Preprocessing
 Loading Data: The dataset is loaded, and initial inspection is done to understand its structure and remove duplicates.
